@@ -1,0 +1,22 @@
+tic-tac-toe game for duo
+https://muhammadzakria-ui.github.io/Tic-Tac-Toe/
+
+
+Number guessing game out 10
+https://muhammadzakria-ui.github.io/Number-Guessing-Game/
+
+
+Number guessing game out 100
+https://muhammadzakria-ui.github.io/Number-Guessing-Game-100/
+
+Tic-Tac-Toe with Ai-Bot
+https://muhammadzakria-ui.github.io/Tic-Tac-Toe-with-AI-BOT/
+
+Rock-paper-scissors game with computer
+https://muhammadzakria-ui.github.io/Rock-Paper-Scissors-Game/
+
+landing page 
+https://muhammadzakria-ui.github.io/repository/
+
+Currency Converter
+https://muhammadzakria-ui.github.io/Currency-Converter/
